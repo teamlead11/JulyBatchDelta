@@ -2,10 +2,10 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 
 							http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>CI_Automation</groupId>
-	<artifactId>CI_Automation</artifactId>
+	<groupId>CI_Automation_july</groupId>
+	<artifactId>CI_Automation_july</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>CI_Automation</name>
+	<name>CI_Automation_july</name>
 	<properties>
 		<maven.compiler.source>1.8</maven.compiler.source>
 		<maven.compiler.target>1.8</maven.compiler.target>
